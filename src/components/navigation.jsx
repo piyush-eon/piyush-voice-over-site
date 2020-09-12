@@ -24,7 +24,11 @@ export class Navigation extends Component {
                 alignItems: "center",
               }}
             >
-              <img src="./img/logo-small-blue.png" className="logo-top" />
+              <img
+                src="./img/logo-small-blue.png"
+                alt="logo piyush.vo"
+                className="logo-top"
+              />
               <a className="navbar-brand page-scroll" href="#page-top">
                 Piyush.vo
               </a>{" "}
