@@ -18,9 +18,17 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <a className="navbar-brand page-scroll" href="#page-top">
-              Piyush.vo
-            </a>{" "}
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+              }}
+            >
+              <img src="./img/logo-small-blue.png" className="logo-top" />
+              <a className="navbar-brand page-scroll" href="#page-top">
+                Piyush.vo
+              </a>{" "}
+            </div>
           </div>
 
           <div

@@ -4278,11 +4278,24 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     border-radius: 4px;
   }
 }
+.logo-top {
+  height: 50px;
+  padding-right: 10;
+  margin-top: -3;
+}
+
+@media (max-width: 768px) {
+  .logo-top {
+    padding-right: 0px;
+  }
+}
+
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
   }
 }
+
 .navbar-collapse {
   padding-right: 15px;
   padding-left: 15px;
