@@ -1,0 +1,144 @@
+{
+  "Header": {
+    "title": "Piyush Agarwal VoiceOvers",
+    "paragraph": "Energetic, Calm and blendable voice for all your needs."
+  },
+  "About": {
+    "paragraph": "Hi there, I'm an Indian Voice Over artist and Whiteboard Animation Professional. I'd love to help you tell your story, sell your product, or whatever else you may need a voiceover for. Take a listen to my demo. I'm also very easy to work and communicate with. One of the things I bring to the table is the ability to sound natural, articulate, and approachable - without sounding too announcer-y or cheeseball radio. I'll deliver a high quality WAV file, ready to go, sounding big and professional. I have a great recording rig and studio space. ",
+    "Why": ["Clear", "Crisp", "Energetic", "Well Toned Voice"],
+    "Why2": ["Script Writing", "Translation Services", "Unlimited Revisions"]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-microphone",
+      "name": "Voice Over and Dubbing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pencil",
+      "name": "Script Writing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Script Translation",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "https://vichitragames.files.wordpress.com/2020/05/vg-logo02.png",
+      "text": "\"I got the delivery as expected. Seller delivered it within time. Highly recommended. I am going to use this seller for all voice over needs in future.\"",
+      "name": "Vichira Games"
+    },
+    {
+      "img": "/img/testimonials/VAGMI.png",
+      "text": "\"Excellent Service By Piyush, He Delivered the Voice Over the way I required. Happy to Work with Him .\"",
+      "name": "Vagmi Services"
+    },
+    {
+      "img": "/img/testimonials/usman.png",
+      "text": "\"Quite Impressive and the Nice voice. I guess i found my permanent voiceover artist. He took very short time to deliver the order and i wasn't expecting this amazing job. In Fact his profile doesn't say much but you will love what he does to your script.\"",
+      "name": "Usman Akbar"
+    },
+    {
+      "img": "img/testimonials/bdet.png",
+      "text": "\"Perfecto! Thanks so much, beautiful Hindi & translation! If you speak other dialects let me know\"",
+      "name": "Kiwi Company"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Script written was impeccable. Fast and to the 'T'. Good job!.\"",
+      "name": "Inaras"
+    },
+    {
+      "img": "img/testimonials/bh.png",
+      "text": "\"Excellent experience with this seller. Awesome delivery. I will also use him for my future projects.\"",
+      "name": "Bharat Honey"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/piyush.png",
+      "name": "Piyush Agarwal",
+      "job": "Voice Over Artist"
+    },
+    {
+      "img": "img/team/harsh.jpeg",
+      "name": "Harsh Singh Chauhan",
+      "job": "Script Writer and Translator"
+    }
+  ],
+  "Contact": {
+    "address": "Kanpur, Uttar Pradesh",
+    "phone": "+91 7905258040",
+    "email": "piyushagarwalvo@gmail.com",
+    "instagram": "https://www.instagram.com/piyush.vo",
+    "linkedin": "https://www.linkedin.com/in/piyush-eon",
+    "youtube": "https://www.youtube.com/channel/UCFhfDqAZawvDp3oZIAcGS_w"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-group",
+      "title": "Advertisments",
+      "text": "./audio/adv.mp3",
+      "link": "./audio/adv.mp3"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Story Telling",
+      "text": "./audio/calm.mp3",
+      "link": "./audio/calm.mp3"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Promotional Explainer",
+      "text": "./audio/promo.mp3",
+      "link": "./audio/promo.mp3"
+    },
+    {
+      "icon": "fa fa-microphone",
+      "title": "Narration",
+      "text": "./audio/narrative.mp3",
+      "link": "./audio/narrative.mp3"
+    }
+  ],
+  "Gallery": [
+    {
+      "title": "Hooplex Marketing",
+      "link": "ue_Dv0MGKxI"
+    },
+    {
+      "title": "Synergy Insurance",
+      "link": "wcxrUmoZ3y0"
+    },
+    {
+      "title": "Wedding Voiceover",
+      "link": "iF6-htAKbpI"
+    },
+    {
+      "title": "True Cab",
+      "link": "qMAGOxZILdI"
+    },
+    {
+      "title": "Bharat Honey",
+      "link": "RAFRYIDk7B4"
+    },
+    {
+      "title": "Mobile App Explainer",
+      "link": "cpnnNndVTg4"
+    },
+    {
+      "title": "Explainer Video",
+      "link": "5GNaiJpjvE0"
+    },
+    {
+      "title": "Hooplex Marketing #2",
+      "link": "5tAobFugbDc"
+    },
+    {
+      "title": "Youtube Intro",
+      "link": "PsIqkk4acY8"
+    }
+  ]
+}
