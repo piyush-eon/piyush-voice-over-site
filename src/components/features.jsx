@@ -18,7 +18,7 @@ export class features extends Component {
                     {/* <p>{d.text}</p> */}
                     <p>
                       <br />
-                      <audio controls>
+                      <audio controls style={{ maxWidth: "100%" }}>
                         <source src={d.text} type="audio/mpeg" />
                         Your browser does not support the audio element.
                       </audio>

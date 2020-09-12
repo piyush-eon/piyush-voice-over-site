@@ -244,6 +244,13 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
+
+@media (max-width: 768px) {
+  .intro-text h1 {
+    font-size: 52px;
+  }
+}
+
 /* Features Section */
 #features {
   padding: 100px 0;
