@@ -25,7 +25,7 @@ export class Navigation extends Component {
               }}
             >
               <img
-                src="./img/logo-small-blue.png"
+                src="./img/logo2.png"
                 alt="logo piyush.vo"
                 className="logo-top"
               />
