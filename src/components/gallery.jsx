@@ -23,7 +23,7 @@ export class Gallery extends Component {
                               <h4>{d.title}</h4>
                             </div>
                             <img
-                              src={`http://i3.ytimg.com/vi/${d.link}/maxresdefault.jpg`}
+                              src={`https://i3.ytimg.com/vi/${d.link}/maxresdefault.jpg`}
                               className="img-responsive"
                               alt="Project Title"
                             />{" "}

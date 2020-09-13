@@ -184,7 +184,7 @@ export default function Contact(props) {
           <p>
             &copy; Copyright 2020. All Rights Reserved.
             {/* Design by{" "} */}
-            {/* <a href="http://www.instagram.com/piyush_eon" rel="nofollow">
+            {/* <a href="https://www.instagram.com/piyush_eon" rel="nofollow">
                 Piyush Agarwal
               </a> */}
           </p>

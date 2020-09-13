@@ -34,7 +34,6 @@ export class Navigation extends Component {
               </a>{" "}
             </div>
           </div>
-
           <div
             className="collapse navbar-collapse"
             id="bs-example-navbar-collapse-1"
