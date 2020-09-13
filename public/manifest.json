@@ -5,7 +5,8 @@
   "scope": "/",
   "start_url": "/",
   "app_name": "Piyush.vo",
-  "short_name": "Piyush",
+  "name": "Piyush Agarwal VoiceOvers",
+  "short_name": "Piyush Agarwal VoiceOvers",
   "icons": [
     {
       "src": "img/icons/maskable_icon.png",
